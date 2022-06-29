@@ -1,5 +1,5 @@
 ### Beautiful Search Box :)))
 
 
-View The Project Online : 
+Take a look at the project : 
 https://zingy-pie-08f12d.netlify.app/
